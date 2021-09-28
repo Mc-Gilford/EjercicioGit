@@ -12,13 +12,11 @@ Crea un programa donde dado un arreglo se imprima del ultimo al primero
 
 int main()
 {
-<<<<<<< HEAD
     int a=10;//variable creada by Naborsssss
     printf("Hola mundo\n");
-=======
     int a=10;//variable creada by Nabor
     int b=23;
     printf("Hola mundo\n %d", a+b);
->>>>>>> 5f1eeaec9cde178e7706751e890f5c49c6dac043
     return 0;
 }
+
