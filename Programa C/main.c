@@ -12,7 +12,7 @@ Crea un programa donde dado un arreglo se imprima del ultimo al primero
 
 int main()
 {
-    int a=10;//variable creada by Nabor
+    int a=10;//variable creada by Naborsssss
     printf("Hola mundo\n");
     return 0;
 }
